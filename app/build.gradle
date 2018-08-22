@@ -4,6 +4,7 @@ android {
     compileSdkVersion 26
     defaultConfig {
 //        applicationId "com.gitdemo.app"
+
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1
