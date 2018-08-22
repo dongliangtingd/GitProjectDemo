@@ -1,4 +1,4 @@
-package com.gitdemo.app;
+package com.gitdemo.library;
 
 import android.util.Log;
 import android.view.View;

@@ -1,4 +1,4 @@
-package com.gitdemo.app;
+package com.gitdemo.library;
 
 import android.app.Activity;
 import android.text.TextUtils;

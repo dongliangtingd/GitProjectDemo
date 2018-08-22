@@ -1,4 +1,4 @@
-package com.gitdemo.app;
+package com.gitdemo.library;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
